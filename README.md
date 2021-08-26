@@ -31,20 +31,20 @@ Left mouse button | Pickup/drop and interact with objects
 
 # Gameplay
 
-### :minibus: Driving to work!
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :minibus: Driving to work! :minibus:
 ![Car driving down street](/Pictures/car.gif)
 
-### Using an elevator!
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_up_down: Using an elevator! :arrow_up_down:
 ![Using the elevator](/Pictures/elevator.gif)
 
-### :briefcase: Being told what to do!
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :briefcase: Being told what to do! :briefcase:
 
 ![In game still of NPC](/Pictures/NANCY.png)
 
-###  :weary: Boring tasks!
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :weary: Boring tasks! :weary:
 ![Shredding a document](/Pictures/shred.gif)
 
-### :punch: Punching things!
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :punch: Punching things! :punch:
 ![Destroying a block](/Pictures/PUNCH.gif)
 
 ## :computer: Setup
