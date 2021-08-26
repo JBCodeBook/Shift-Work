@@ -1,4 +1,4 @@
-# :office: :office: :office: Shift work
+# :office:  :office:
 ![Title Screen](/Pictures/Title.png)
 
 # Index
@@ -11,10 +11,10 @@
 
 
 
-## Introduction
+## :wave: Introduction
 Shift work is a game about office work. This project started out as an assignment for a game design class but has grown since then to be a personal sandbox to learn some C# and game design. The goal of the game is to get through your first day at a new job before the time runs out. Each floor of the office is a new level with a new challenge to beat.
 
-## Controls
+## :video_game: Controls
 
 Key | Action
 ------------ | -------------
@@ -31,31 +31,30 @@ Left mouse button | Pickup/drop and interact with objects
 
 # Gameplay
 
-### Driving to work!
+### :minibus: Driving to work!
 ![Car driving down street](/Pictures/car.gif)
 
 ### Using an elevator!
 ![Using the elevator](/Pictures/elevator.gif)
 
-### Being told what to do!
-:briefcase:
+### :briefcase: Being told what to do!
 
 ![In game still of NPC](/Pictures/NANCY.png)
 
-### Boring tasks!
+###  :weary: Boring tasks!
 ![Shredding a document](/Pictures/shred.gif)
 
-### Punching things!
+### :punch: Punching things!
 ![Destroying a block](/Pictures/PUNCH.gif)
 
-## Setup
+## :computer: Setup
 
 This game was built using unity 2019.4.18f1 and is required to run.
 
 Clone or download the repository and select build and run the game to start.
 
 
-## Credits
+## :notes: Credits
 
 *Voxel Revolution Kevin MacLeod (incompetech.com) <br>
 Licensed under Creative Commons: By Attribution 3.0 <br>
