@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 456aef8c5c6662242b3b68bd018c5556, type: 3}
+  m_Name: Nancy
+  m_EditorClassIdentifier: 
+  NPCname: 
+  dialogue:
+  - 'Hello I''m Nancy.
+
+
+    Welcome to the First Floor. We have lots to do today!'
+  - Your job on this floor is to find all the loose paper and dispose of them in
+    the paper shredder. Shred 5 pieces of paper to move on to the next floor.
+  - Press the E key to pick up an item. When holding an item you can rotate it with
+    the R key or throw it with the RMB mouse button.
+  playerDialogue:
+  - Hi Nancy. What do you need me to do?
+  - How do I do this job?

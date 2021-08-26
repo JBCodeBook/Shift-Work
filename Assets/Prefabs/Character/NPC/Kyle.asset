@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 456aef8c5c6662242b3b68bd018c5556, type: 3}
+  m_Name: Kyle
+  m_EditorClassIdentifier: 
+  NPCname: 
+  dialogue:
+  - 'Welcome to your first day on the job!
+
+    To speak with me scroll using your
+    mouse wheel. Press Enter to select'
+  - 'Today is your first day. Your job is to finish each job before the day is over. '
+  - You will get a new job on each floor of this office. To move to the next you
+    need to finish your job before the time is up.
+  - On this floor you need to find the elevator to make your way to your first office. 
+    Don't get lost!
+  playerDialogue:
+  - What am I supposed to do?
+  - How do I know what my jobs are?
+  - What is my job on this floor?
